@@ -1,10 +1,12 @@
-## Hi there 👋
+## Hi! 👋
+
+Im Antonia, student of Software Engineering at UTFSM, Chile.
+
+- Fedora User. 🖥️
+- Im currently focusing on getting better in programming languages like C++ (actual) and python. 😺
+
 
 <!--
-**anto-specs/anto-specs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
